@@ -1,0 +1,59 @@
+/* body {
+    background-color: slategray;
+    height: 100%;
+} */
+
+.button {
+    width: 200px;
+    height: 200px;
+    margin: 0 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.flexible-container {
+    display: flex;
+    justify-content: center;
+
+}
+
+.score-display {
+    display: flex;
+    justify-content: center;
+}
+
+.score {
+    font-size: 80px;
+    padding: 0px 80px;
+}
+
+.content-labels {
+    display: flex;
+    justify-content: center;
+}
+
+.label {
+    padding: 0px 30px;
+    width: 200px;
+}
+
+#reset {
+    display: flex;
+    justify-content: center;
+}
+
+#reset_btn.fadeIn {
+    opacity: 1;
+}
+
+#message-container{
+    display: flex;
+    justify-content: center;
+}
+
+#endDisplay{
+    display: flex;
+    justify-content: center;
+}
+
