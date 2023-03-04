@@ -2,4 +2,4 @@
 This is a rock paper scissors game created using html and JavaScript 
 <br>For this project I have also used the Bootstrap UI Kit to create basic UI for the game </br>
 
-Link to game: 
+Link to game: https://shariqmalik10.github.io/Rock-Paper-Scissors/
